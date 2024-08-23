@@ -39,6 +39,7 @@
     <a href="{{ url_for('index') }}">Voltar para a página inicial</a>
 </body>
 </html>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
